@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\Practicas POO\bin\Debug\net6.0\Practicas POO.exe
+C:\Users\vazqu\source\repos\Practicas POO\bin\Debug\net6.0\Practicas POO.deps.json
+C:\Users\vazqu\source\repos\Practicas POO\bin\Debug\net6.0\Practicas POO.runtimeconfig.json
+C:\Users\vazqu\source\repos\Practicas POO\bin\Debug\net6.0\Practicas POO.dll
+C:\Users\vazqu\source\repos\Practicas POO\bin\Debug\net6.0\Practicas POO.pdb
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.dll
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\refint\Practicas POO.dll
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.pdb
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\Practicas POO.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\Practicas POO\obj\Debug\net6.0\ref\Practicas POO.dll
