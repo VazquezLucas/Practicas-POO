@@ -24,7 +24,7 @@ namespace PracticasPOO
     class Circulo
     {
 
-        double pi = 3.1416;     //propiedad de la clase Circulo. campo de clase.
+        const double pi = 3.1416;     //propiedad de la clase Circulo. campo de clase.
 
         public double calculoArea(int radio)   //método de clase. ¿que pueden hacer los objetos de tipo círculo?.
         {
